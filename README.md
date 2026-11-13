@@ -46,7 +46,7 @@ A personal collection of custom emoji for Slack and Discord, organized by theme.
 </details>
 
 <details>
-<summary><strong>cinnamoroll</strong> (94)</summary>
+<summary><strong>cinnamoroll</strong> (95)</summary>
 
 <table>
   <tr>
@@ -156,20 +156,21 @@ A personal collection of custom emoji for Slack and Discord, organized by theme.
   <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-ty.png" alt="cinnamoroll-ty" title="cinnamoroll-ty" height="48"><br><sub>cinnamoroll-ty</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-typing.gif" alt="cinnamoroll-typing" title="cinnamoroll-typing" height="48"><br><sub>cinnamoroll-typing</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-umbrella.png" alt="cinnamoroll-umbrella" title="cinnamoroll-umbrella" height="48"><br><sub>cinnamoroll-umbrella</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-vinyl.png" alt="cinnamoroll-vinyl" title="cinnamoroll-vinyl" height="48"><br><sub>cinnamoroll-vinyl</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wave.gif" alt="cinnamoroll-wave" title="cinnamoroll-wave" height="48"><br><sub>cinnamoroll-wave</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wfh.png" alt="cinnamoroll-wfh" title="cinnamoroll-wfh" height="48"><br><sub>cinnamoroll-wfh</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-wink.png" alt="cinnamoroll-wink" title="cinnamoroll-wink" height="48"><br><sub>cinnamoroll-wink</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-wink.png" alt="cinnamoroll-wink" title="cinnamoroll-wink" height="48"><br><sub>cinnamoroll-wink</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-with-balloons.gif" alt="cinnamoroll-with-balloons" title="cinnamoroll-with-balloons" height="48"><br><sub>cinnamoroll-with-balloons</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wow.png" alt="cinnamoroll-wow" title="cinnamoroll-wow" height="48"><br><sub>cinnamoroll-wow</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-write-doc.png" alt="cinnamoroll-write-doc" title="cinnamoroll-write-doc" height="48"><br><sub>cinnamoroll-write-doc</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-yay.gif" alt="cinnamoroll-yay" title="cinnamoroll-yay" height="48"><br><sub>cinnamoroll-yay</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-yells-at-github.png" alt="cinnamoroll-yells-at-github" title="cinnamoroll-yells-at-github" height="48"><br><sub>cinnamoroll-yells-at-github</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-yum.png" alt="cinnamoroll-yum" title="cinnamoroll-yum" height="48"><br><sub>cinnamoroll-yum</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-yum.png" alt="cinnamoroll-yum" title="cinnamoroll-yum" height="48"><br><sub>cinnamoroll-yum</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-zoom.png" alt="cinnamoroll-zoom" title="cinnamoroll-zoom" height="48"><br><sub>cinnamoroll-zoom</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-zzz.png" alt="cinnamoroll-zzz" title="cinnamoroll-zzz" height="48"><br><sub>cinnamoroll-zzz</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll.png" alt="cinnamoroll" title="cinnamoroll" height="48"><br><sub>cinnamoroll</sub></td>
