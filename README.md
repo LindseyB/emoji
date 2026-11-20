@@ -46,7 +46,7 @@ A personal collection of custom emoji for Slack and Discord, organized by theme.
 </details>
 
 <details>
-<summary><strong>cinnamoroll</strong> (95)</summary>
+<summary><strong>cinnamoroll</strong> (98)</summary>
 
 <table>
   <tr>
@@ -86,93 +86,98 @@ A personal collection of custom emoji for Slack and Discord, organized by theme.
     <td align="center"><img src="cinnamoroll/cinnamoroll-drinking-tea.png" alt="cinnamoroll-drinking-tea" title="cinnamoroll-drinking-tea" height="48"><br><sub>cinnamoroll-drinking-tea</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-earsup.png" alt="cinnamoroll-earsup" title="cinnamoroll-earsup" height="48"><br><sub>cinnamoroll-earsup</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-email.png" alt="cinnamoroll-email" title="cinnamoroll-email" height="48"><br><sub>cinnamoroll-email</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-espresso.png" alt="cinnamoroll-espresso" title="cinnamoroll-espresso" height="48"><br><sub>cinnamoroll-espresso</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-eyes.png" alt="cinnamoroll-eyes" title="cinnamoroll-eyes" height="48"><br><sub>cinnamoroll-eyes</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-facepalm.png" alt="cinnamoroll-facepalm" title="cinnamoroll-facepalm" height="48"><br><sub>cinnamoroll-facepalm</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-facepalm.png" alt="cinnamoroll-facepalm" title="cinnamoroll-facepalm" height="48"><br><sub>cinnamoroll-facepalm</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-hacker.png" alt="cinnamoroll-hacker" title="cinnamoroll-hacker" height="48"><br><sub>cinnamoroll-hacker</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-haha-business.png" alt="cinnamoroll-haha-business" title="cinnamoroll-haha-business" height="48"><br><sub>cinnamoroll-haha-business</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-happy.png" alt="cinnamoroll-happy" title="cinnamoroll-happy" height="48"><br><sub>cinnamoroll-happy</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-headphones.png" alt="cinnamoroll-headphones" title="cinnamoroll-headphones" height="48"><br><sub>cinnamoroll-headphones</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-heart.png" alt="cinnamoroll-heart" title="cinnamoroll-heart" height="48"><br><sub>cinnamoroll-heart</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-hearteyes.png" alt="cinnamoroll-hearteyes" title="cinnamoroll-hearteyes" height="48"><br><sub>cinnamoroll-hearteyes</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-hearteyes.png" alt="cinnamoroll-hearteyes" title="cinnamoroll-hearteyes" height="48"><br><sub>cinnamoroll-hearteyes</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-hehe.png" alt="cinnamoroll-hehe" title="cinnamoroll-hehe" height="48"><br><sub>cinnamoroll-hehe</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-hi.png" alt="cinnamoroll-hi" title="cinnamoroll-hi" height="48"><br><sub>cinnamoroll-hi</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-idea.png" alt="cinnamoroll-idea" title="cinnamoroll-idea" height="48"><br><sub>cinnamoroll-idea</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-in-a-plane.png" alt="cinnamoroll-in-a-plane" title="cinnamoroll-in-a-plane" height="48"><br><sub>cinnamoroll-in-a-plane</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-interview.png" alt="cinnamoroll-interview" title="cinnamoroll-interview" height="48"><br><sub>cinnamoroll-interview</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-investigate.png" alt="cinnamoroll-investigate" title="cinnamoroll-investigate" height="48"><br><sub>cinnamoroll-investigate</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-investigate.png" alt="cinnamoroll-investigate" title="cinnamoroll-investigate" height="48"><br><sub>cinnamoroll-investigate</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-knife.png" alt="cinnamoroll-knife" title="cinnamoroll-knife" height="48"><br><sub>cinnamoroll-knife</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-laptop.png" alt="cinnamoroll-laptop" title="cinnamoroll-laptop" height="48"><br><sub>cinnamoroll-laptop</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-laugh.png" alt="cinnamoroll-laugh" title="cinnamoroll-laugh" height="48"><br><sub>cinnamoroll-laugh</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-lgtm.png" alt="cinnamoroll-lgtm" title="cinnamoroll-lgtm" height="48"><br><sub>cinnamoroll-lgtm</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-mixpanel-fire.png" alt="cinnamoroll-mixpanel-fire" title="cinnamoroll-mixpanel-fire" height="48"><br><sub>cinnamoroll-mixpanel-fire</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-moon.gif" alt="cinnamoroll-moon" title="cinnamoroll-moon" height="48"><br><sub>cinnamoroll-moon</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-migraine.png" alt="cinnamoroll-migraine" title="cinnamoroll-migraine" height="48"><br><sub>cinnamoroll-migraine</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-mixpanel-fire.png" alt="cinnamoroll-mixpanel-fire" title="cinnamoroll-mixpanel-fire" height="48"><br><sub>cinnamoroll-mixpanel-fire</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-moon.gif" alt="cinnamoroll-moon" title="cinnamoroll-moon" height="48"><br><sub>cinnamoroll-moon</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-musicnote.png" alt="cinnamoroll-musicnote" title="cinnamoroll-musicnote" height="48"><br><sub>cinnamoroll-musicnote</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-ok.png" alt="cinnamoroll-ok" title="cinnamoroll-ok" height="48"><br><sub>cinnamoroll-ok</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-on-call.png" alt="cinnamoroll-on-call" title="cinnamoroll-on-call" height="48"><br><sub>cinnamoroll-on-call</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-ooo.png" alt="cinnamoroll-ooo" title="cinnamoroll-ooo" height="48"><br><sub>cinnamoroll-ooo</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-peaceful.png" alt="cinnamoroll-peaceful" title="cinnamoroll-peaceful" height="48"><br><sub>cinnamoroll-peaceful</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-planning.png" alt="cinnamoroll-planning" title="cinnamoroll-planning" height="48"><br><sub>cinnamoroll-planning</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-peaceful.png" alt="cinnamoroll-peaceful" title="cinnamoroll-peaceful" height="48"><br><sub>cinnamoroll-peaceful</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-planning.png" alt="cinnamoroll-planning" title="cinnamoroll-planning" height="48"><br><sub>cinnamoroll-planning</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-play.gif" alt="cinnamoroll-play" title="cinnamoroll-play" height="48"><br><sub>cinnamoroll-play</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-plusone.png" alt="cinnamoroll-plusone" title="cinnamoroll-plusone" height="48"><br><sub>cinnamoroll-plusone</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-question.png" alt="cinnamoroll-question" title="cinnamoroll-question" height="48"><br><sub>cinnamoroll-question</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-read.png" alt="cinnamoroll-read" title="cinnamoroll-read" height="48"><br><sub>cinnamoroll-read</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-retro.png" alt="cinnamoroll-retro" title="cinnamoroll-retro" height="48"><br><sub>cinnamoroll-retro</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-review-doc.png" alt="cinnamoroll-review-doc" title="cinnamoroll-review-doc" height="48"><br><sub>cinnamoroll-review-doc</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-retro.png" alt="cinnamoroll-retro" title="cinnamoroll-retro" height="48"><br><sub>cinnamoroll-retro</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-review-doc.png" alt="cinnamoroll-review-doc" title="cinnamoroll-review-doc" height="48"><br><sub>cinnamoroll-review-doc</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-rip.png" alt="cinnamoroll-rip" title="cinnamoroll-rip" height="48"><br><sub>cinnamoroll-rip</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-sad.png" alt="cinnamoroll-sad" title="cinnamoroll-sad" height="48"><br><sub>cinnamoroll-sad</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-santa.gif" alt="cinnamoroll-santa" title="cinnamoroll-santa" height="48"><br><sub>cinnamoroll-santa</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-ship-it.png" alt="cinnamoroll-ship-it" title="cinnamoroll-ship-it" height="48"><br><sub>cinnamoroll-ship-it</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-shock.png" alt="cinnamoroll-shock" title="cinnamoroll-shock" height="48"><br><sub>cinnamoroll-shock</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-sideeye.png" alt="cinnamoroll-sideeye" title="cinnamoroll-sideeye" height="48"><br><sub>cinnamoroll-sideeye</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-shock.png" alt="cinnamoroll-shock" title="cinnamoroll-shock" height="48"><br><sub>cinnamoroll-shock</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-sideeye.png" alt="cinnamoroll-sideeye" title="cinnamoroll-sideeye" height="48"><br><sub>cinnamoroll-sideeye</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-sk8ing.png" alt="cinnamoroll-sk8ing" title="cinnamoroll-sk8ing" height="48"><br><sub>cinnamoroll-sk8ing</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-sleep.png" alt="cinnamoroll-sleep" title="cinnamoroll-sleep" height="48"><br><sub>cinnamoroll-sleep</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-sorry.gif" alt="cinnamoroll-sorry" title="cinnamoroll-sorry" height="48"><br><sub>cinnamoroll-sorry</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-spooked.png" alt="cinnamoroll-spooked" title="cinnamoroll-spooked" height="48"><br><sub>cinnamoroll-spooked</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-stars.png" alt="cinnamoroll-stars" title="cinnamoroll-stars" height="48"><br><sub>cinnamoroll-stars</sub></td>
-    <td align="center"><img src="cinnamoroll/cinnamoroll-sweat.png" alt="cinnamoroll-sweat" title="cinnamoroll-sweat" height="48"><br><sub>cinnamoroll-sweat</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-stars.png" alt="cinnamoroll-stars" title="cinnamoroll-stars" height="48"><br><sub>cinnamoroll-stars</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-stressy.png" alt="cinnamoroll-stressy" title="cinnamoroll-stressy" height="48"><br><sub>cinnamoroll-stressy</sub></td>
+    <td align="center"><img src="cinnamoroll/cinnamoroll-sweat.png" alt="cinnamoroll-sweat" title="cinnamoroll-sweat" height="48"><br><sub>cinnamoroll-sweat</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-tada.png" alt="cinnamoroll-tada" title="cinnamoroll-tada" height="48"><br><sub>cinnamoroll-tada</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-teacup.png" alt="cinnamoroll-teacup" title="cinnamoroll-teacup" height="48"><br><sub>cinnamoroll-teacup</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-tear.png" alt="cinnamoroll-tear" title="cinnamoroll-tear" height="48"><br><sub>cinnamoroll-tear</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-telescope.png" alt="cinnamoroll-telescope" title="cinnamoroll-telescope" height="48"><br><sub>cinnamoroll-telescope</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-think.png" alt="cinnamoroll-think" title="cinnamoroll-think" height="48"><br><sub>cinnamoroll-think</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-triad-love.png" alt="cinnamoroll-triad-love" title="cinnamoroll-triad-love" height="48"><br><sub>cinnamoroll-triad-love</sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-ty.png" alt="cinnamoroll-ty" title="cinnamoroll-ty" height="48"><br><sub>cinnamoroll-ty</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-typing.gif" alt="cinnamoroll-typing" title="cinnamoroll-typing" height="48"><br><sub>cinnamoroll-typing</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-umbrella.png" alt="cinnamoroll-umbrella" title="cinnamoroll-umbrella" height="48"><br><sub>cinnamoroll-umbrella</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-vinyl.png" alt="cinnamoroll-vinyl" title="cinnamoroll-vinyl" height="48"><br><sub>cinnamoroll-vinyl</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wave.gif" alt="cinnamoroll-wave" title="cinnamoroll-wave" height="48"><br><sub>cinnamoroll-wave</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wfh.png" alt="cinnamoroll-wfh" title="cinnamoroll-wfh" height="48"><br><sub>cinnamoroll-wfh</sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wink.png" alt="cinnamoroll-wink" title="cinnamoroll-wink" height="48"><br><sub>cinnamoroll-wink</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-with-balloons.gif" alt="cinnamoroll-with-balloons" title="cinnamoroll-with-balloons" height="48"><br><sub>cinnamoroll-with-balloons</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-wow.png" alt="cinnamoroll-wow" title="cinnamoroll-wow" height="48"><br><sub>cinnamoroll-wow</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-write-doc.png" alt="cinnamoroll-write-doc" title="cinnamoroll-write-doc" height="48"><br><sub>cinnamoroll-write-doc</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-yay.gif" alt="cinnamoroll-yay" title="cinnamoroll-yay" height="48"><br><sub>cinnamoroll-yay</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-yells-at-github.png" alt="cinnamoroll-yells-at-github" title="cinnamoroll-yells-at-github" height="48"><br><sub>cinnamoroll-yells-at-github</sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll-yum.png" alt="cinnamoroll-yum" title="cinnamoroll-yum" height="48"><br><sub>cinnamoroll-yum</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-zoom.png" alt="cinnamoroll-zoom" title="cinnamoroll-zoom" height="48"><br><sub>cinnamoroll-zoom</sub></td>
     <td align="center"><img src="cinnamoroll/cinnamoroll-zzz.png" alt="cinnamoroll-zzz" title="cinnamoroll-zzz" height="48"><br><sub>cinnamoroll-zzz</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="cinnamoroll/cinnamoroll.png" alt="cinnamoroll" title="cinnamoroll" height="48"><br><sub>cinnamoroll</sub></td>
     <td align="center"><img src="cinnamoroll/mocha-cute.png" alt="mocha-cute" title="mocha-cute" height="48"><br><sub>mocha-cute</sub></td>
   </tr>
